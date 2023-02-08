@@ -1,7 +1,9 @@
 # Spec Template
 
 Work item: _add a link_
+
 Product Manager: _PM Name_
+
 Date: _date when you author the spec_
 
 Author’s note: The template should help you in outlining the key aspects while writing a spec. Feel empowered to move sections around, make new ones, but make sure you answer: “what are we building and why?”
